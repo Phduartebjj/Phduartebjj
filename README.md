@@ -1,11 +1,6 @@
 ## Bem-vindo(a) ao perfil do Duarte 😁
   <b>Software Developer | JavaScript Full Stack</b>
- <div>
-   <a href="https://github.com/Phduartebjj">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Phduartebjj&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phduartebjj&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
-
+  
 ## 🧑‍💻 Sobre Mim
 
  Meu foco principal está na criação de soluções eficientes utilizando **JavaScript** e o ecossistema **Full Stack**. 
@@ -50,5 +45,12 @@ Acredito que dominar os fundamentos é a chave para construir softwares robustos
   <img src="https://img.shields.io/badge/Status-Developing%20%26%20Building-brightgreen?style=for-the-badge"/>
   <a href="https://www.behance.net/pedroduarte_" target="_blank"><img src="https://img.shields.io/badge/Behance-1769ff?logo=behance&logoCol" target="_blank" ></a>
 </p>
+</div>
 
+---
+
+ <div>
+   <a href="https://github.com/Phduartebjj">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Phduartebjj&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phduartebjj&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
