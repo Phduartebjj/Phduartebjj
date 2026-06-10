@@ -12,6 +12,14 @@ Acredito que dominar os fundamentos é a chave para construir softwares robustos
 - **Boas Práticas:** Clean Code, Kanban, Scrum e versionamento semântico com Conventional Commits.
 
 ---
+
+ <div>
+   <a href="https://github.com/Phduartebjj">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Phduartebjj&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phduartebjj&layout=compact&langs_count=6&theme=tokyonight"/>
+</div>
+
+---
     
 ## 🛠️ Tech Stack
 
@@ -29,16 +37,6 @@ Acredito que dominar os fundamentos é a chave para construir softwares robustos
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Phduartebjj&color=blueviolet&style=for-the-badge"/>
 </p>
-
----
-
- <div>
-   <a href="https://github.com/Phduartebjj">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Phduartebjj&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phduartebjj&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
-
----
 
 ### Redes sociais
  
