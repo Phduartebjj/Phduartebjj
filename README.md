@@ -5,6 +5,18 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Phduartebjj&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phduartebjj&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
+
+## 🧑‍💻 Sobre Mim
+
+ Meu foco principal está na criação de soluções eficientes utilizando **JavaScript** e o ecossistema **Full Stack**. 
+
+Acredito que dominar os fundamentos é a chave para construir softwares robustos. Por isso, sigo aprofundando meus conhecimentos em:
+
+- **Backend:**  Estruturas de Dados e Arquitetura de Software.
+- **Frontend:** Desenvolvimento de interfaces dinâmicas e integração com o ecossistema Full Stack.
+- **Boas Práticas:** Clean Code, Kanban, Scrum e versionamento semântico com Conventional Commits.
+
+---
     
 ## 🛠️ Tech Stack
 
