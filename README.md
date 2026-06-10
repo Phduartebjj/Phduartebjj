@@ -16,6 +16,15 @@
 
 ---
 
+
+## 🌌 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Phduartebjj&color=blueviolet&style=for-the-badge"/>
+</p>
+
+---
+
 ### Redes sociais
  
 <div> 
