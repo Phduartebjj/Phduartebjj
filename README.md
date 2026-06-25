@@ -1,6 +1,6 @@
 ## Bem-vindo(a) ao perfil do Duarte 😁
   <b>Software Developer | JavaScript Full Stack</b>
-  
+
 ## 🧑‍💻 Sobre Mim
 
  Meu foco principal está na criação de soluções eficientes utilizando **JavaScript** e o ecossistema **Full Stack**. 
