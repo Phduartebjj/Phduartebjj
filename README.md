@@ -50,7 +50,7 @@ Acredito que dominar os fundamentos é a chave para construir softwares robustos
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <img src="https://img.shields.io/badge/Status-Developing%20%26%20Building-brightgreen?style=for-the-badge"/>
-  <a href="https://www.behance.net/pedroduarte_" target="_blank"><img src="https://img.shields.io/badge/Behance-1769ff?logo=behance&logoCol" target="_blank" ></a>
+  <a href="https://www.behance.net/pedroduarte_" target="_blank"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" target="_blank" ></a>
 </p>
 </div>
 
