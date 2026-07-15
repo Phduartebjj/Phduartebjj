@@ -25,7 +25,7 @@ Acredito que dominar os fundamentos é a chave para construir softwares robustos
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,node,git,github,vscode,figma,blender&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,git,github,vscode,figma,blender&theme=dark" />
 </p>
  
 <br>
